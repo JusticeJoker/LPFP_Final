@@ -1,0 +1,17 @@
+C:\Users\gonro\source\repos\PP1-Recurso\LPFP\LPFP\bin\Debug\LPFP.exe.config
+C:\Users\gonro\source\repos\PP1-Recurso\LPFP\LPFP\bin\Debug\LPFP.exe
+C:\Users\gonro\source\repos\PP1-Recurso\LPFP\LPFP\bin\Debug\LPFP.pdb
+C:\Users\gonro\source\repos\PP1-Recurso\LPFP\LPFP\obj\Debug\LPFP.csprojAssemblyReference.cache
+C:\Users\gonro\source\repos\PP1-Recurso\LPFP\LPFP\obj\Debug\LPFP.exe
+C:\Users\gonro\source\repos\PP1-Recurso\LPFP\LPFP\obj\Debug\LPFP.pdb
+C:\Users\gonro\Desktop\LPFP\LPFP\bin\Debug\LPFP.exe.config
+C:\Users\gonro\Desktop\LPFP\LPFP\bin\Debug\LPFP.exe
+C:\Users\gonro\Desktop\LPFP\LPFP\bin\Debug\LPFP.pdb
+C:\Users\gonro\Desktop\LPFP\LPFP\bin\Debug\LPFP.API.dll
+C:\Users\gonro\Desktop\LPFP\LPFP\bin\Debug\LPFP.Entities.dll
+C:\Users\gonro\Desktop\LPFP\LPFP\bin\Debug\LPFP.API.pdb
+C:\Users\gonro\Desktop\LPFP\LPFP\bin\Debug\LPFP.Entities.pdb
+C:\Users\gonro\Desktop\LPFP\LPFP\obj\Debug\LPFP.csprojAssemblyReference.cache
+C:\Users\gonro\Desktop\LPFP\LPFP\obj\Debug\LPFP.csproj.CopyComplete
+C:\Users\gonro\Desktop\LPFP\LPFP\obj\Debug\LPFP.exe
+C:\Users\gonro\Desktop\LPFP\LPFP\obj\Debug\LPFP.pdb

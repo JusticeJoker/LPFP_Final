@@ -1,0 +1,8 @@
+C:\Users\gonro\Desktop\LPFP\LPFP.API\bin\Debug\LPFP.API.dll
+C:\Users\gonro\Desktop\LPFP\LPFP.API\bin\Debug\LPFP.API.pdb
+C:\Users\gonro\Desktop\LPFP\LPFP.API\bin\Debug\LPFP.Entities.dll
+C:\Users\gonro\Desktop\LPFP\LPFP.API\bin\Debug\LPFP.Entities.pdb
+C:\Users\gonro\Desktop\LPFP\LPFP.API\obj\Debug\LPFP.API.csprojAssemblyReference.cache
+C:\Users\gonro\Desktop\LPFP\LPFP.API\obj\Debug\LPFP.API.csproj.CopyComplete
+C:\Users\gonro\Desktop\LPFP\LPFP.API\obj\Debug\LPFP.API.dll
+C:\Users\gonro\Desktop\LPFP\LPFP.API\obj\Debug\LPFP.API.pdb

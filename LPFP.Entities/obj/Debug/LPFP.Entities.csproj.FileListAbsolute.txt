@@ -1,0 +1,5 @@
+C:\Users\gonro\Desktop\LPFP\LPFP.Entities\bin\Debug\LPFP.Entities.dll
+C:\Users\gonro\Desktop\LPFP\LPFP.Entities\bin\Debug\LPFP.Entities.pdb
+C:\Users\gonro\Desktop\LPFP\LPFP.Entities\obj\Debug\LPFP.Entities.csprojAssemblyReference.cache
+C:\Users\gonro\Desktop\LPFP\LPFP.Entities\obj\Debug\LPFP.Entities.dll
+C:\Users\gonro\Desktop\LPFP\LPFP.Entities\obj\Debug\LPFP.Entities.pdb
